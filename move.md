@@ -4,7 +4,7 @@
 移动工具对应工具栏中的![icon](./images/move/icon.jpg)图标，它用于移动选中的区域获取选中图层的内容。
 ### 二、解除图层锁定
 当使用ps打开一张图片时，图层默认为被锁定的背景。这样是不能使用移动工具移动背景的，需要吧背景解锁。解锁的方式是在图层面板中将图层右侧的锁拉到下侧的垃圾桶图标。过程如下图：  
-![deblock](./images/move/deblock.gif)  
+![deblock](./images/move/deblock.gif)  <br />
 而给图层加锁的方式就是选中对应图层，点击图层面板中的锁图标。如下图：
 ![block](./images/move/block.gif)
 ### 三、移动图层内容
