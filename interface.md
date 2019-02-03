@@ -22,3 +22,7 @@
 ![panel](./images/interface/panel.jpg)  
 
 ## 三、面板的展开和组合
+按面板的双箭头图标![double-arrow](./images/interface/double-arrow.jpg)可以展开或折叠面板。    
+面板可以随意拖拽放置和组合，在将面板拖拽置视图左边边缘或者另一面板的选项位置、下方边缘和左方边缘，出现蓝色线时，可以组合放置面板。
+> 注意：是鼠标接触到边缘而不是面板边缘接触边缘才会出现蓝线。  
+![panel-combine](./images/interface/panel-combine.gif)
